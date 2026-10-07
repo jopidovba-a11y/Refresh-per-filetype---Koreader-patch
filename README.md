@@ -11,5 +11,4 @@ For example: set "Every chapter" for EPUB and "Every 6 pages" for CBZ, and each 
 
 - The first time a type is opened, the current value is saved as its starting point.
 - Settings are stored in settings/refresh_per_filetype.lua.
-- Only the refresh rate is covered, not the "flash on chapter boundaries" or "flash on pages with images" tog
-- gles.
+- Only the refresh rate is covered, not the "flash on chapter boundaries" or "flash on pages with images" toggles.
